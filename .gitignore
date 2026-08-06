@@ -8,3 +8,6 @@ hvaastronomy.com/
 *.code-workspace
 .DS_Store
 Thumbs.db
+
+# Dependencies
+node_modules/
