@@ -31,9 +31,9 @@ var SCHEDULE_DATA = {
           "map": "https://maps.google.com/?q=4950+NW+Fair+Oaks+Dr,+Corvallis,+OR+97330"
         },
         {
-          "date": "TBA",
+          "date": "14",
           "type": "virtual",
-          "time": "TBA",
+          "time": "8:00 PM PDT",
           "title": "Virtual Star Party",
           "details": "See details in email from [HVAAstronomy.groups.io](https://hvaastronomy.groups.io) or [Facebook](https://www.facebook.com/hvaastronomy)",
           "location": "Online via Zoom",
