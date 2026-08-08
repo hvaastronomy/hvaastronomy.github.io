@@ -45,6 +45,26 @@ var SCHEDULE_DATA = {
       "name": "September 2026",
       "events": [
         {
+          "date": "8",
+          "type": "meeting",
+          "time": "7:00 PM PDT",
+          "title": "HVA Club Meeting — In Person!",
+          "details": "See details in email from [HVAAstronomy.groups.io](https://hvaastronomy.groups.io)",
+          "location": "Scott Zimbrick Memorial Fire Station, Walnut Community Room",
+          "address": "4950 NW Fair Oaks Dr, Corvallis, OR 97330",
+          "map": "https://maps.google.com/?q=4950+NW+Fair+Oaks+Dr,+Corvallis,+OR+97330"
+        },
+        {
+          "date": "12",
+          "type": "starparty",
+          "time": "7:30 PM PDT",
+          "title": "In-Person Star Party — Weather Permitting",
+          "details": "Star party at Adair County Park. See details in email from HVAAstronomy.groups.io",
+          "location": "Adair County Park",
+          "address": "",
+          "map": "https://maps.google.com/?q=Adair+County+Park,+Corvallis,+OR"
+        },
+        {
           "date": "18",
           "type": "meeting",
           "time": "7:00 PM PDT",
@@ -62,16 +82,6 @@ var SCHEDULE_DATA = {
           "details": "See details in email from [HVAAstronomy.groups.io](https://hvaastronomy.groups.io) or [Facebook](https://www.facebook.com/hvaastronomy)",
           "location": "Online via Zoom",
           "address": "Link sent via email"
-        },
-        {
-          "date": "12",
-          "type": "starparty",
-          "time": "7:30 PM PDT",
-          "title": "In-Person Star Party — Weather Permitting",
-          "details": "Star party at Adair County Park. See details in email from HVAAstronomy.groups.io",
-          "location": "Adair County Park",
-          "address": "",
-          "map": "https://maps.google.com/?q=Adair+County+Park,+Corvallis,+OR"
         }
       ]
     }
