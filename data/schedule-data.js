@@ -18,7 +18,7 @@ var SCHEDULE_DATA = {
           "details": "Star party at Adair County Park. See details in email from HVAAstronomy.groups.io",
           "location": "Adair County Park",
           "address": "",
-          "map": "https://maps.google.com/?q=Adair+County+Park,+Corvallis,+OR"
+          "map": "mapadair.htm"
         },
         {
           "date": "11",
@@ -62,7 +62,7 @@ var SCHEDULE_DATA = {
           "details": "Star party at Adair County Park. See details in email from HVAAstronomy.groups.io",
           "location": "Adair County Park",
           "address": "",
-          "map": "https://maps.google.com/?q=Adair+County+Park,+Corvallis,+OR"
+          "map": "mapadair.htm"
         },
         {
           "date": "18",
